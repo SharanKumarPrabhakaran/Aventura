@@ -274,7 +274,7 @@ classDiagram
 
     https://github.com/info-6150-summer-2024/final-project-web-wizards.git
 
-    OR set up the SSH Key using: git@github.com:info-6150-summer-2024/final-project-web-wizards.git
+    OR set up the SSH Key using: git@github.com:SharanKumarPrabhakaran/Aventura.git
 
     Commands to use:
 
